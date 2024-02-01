@@ -1,4 +1,4 @@
-package runner;
+package pages;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.By;
@@ -12,7 +12,7 @@ import pages.HomePage;
 
 public class TestCompagne {
     String siteDemo="https://practice.automationtesting.in/my-account";
-    String email="yassvega@outlook.fr";
+    String email="xxxxyyyy@gmail.fr";
     String password="Groupe01/2024";
 
     WebDriver driver;
